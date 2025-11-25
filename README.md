@@ -35,28 +35,6 @@ This project was created as part of an M.Tech project.
 
 ------------------------------------------------------------
 
-## Project Structure
-
-FUTURE_CHAT/
-│-- main.py
-│-- llama_client.py
-│-- ollama_client.py
-│-- memory.py
-│-- tts.py
-│-- requirements.txt
-│
-├── frontend/
-│   ├── index.html
-│   ├── script.js
-│   └── styles.css
-│
-├── history/
-│   └── saved conversations
-│
-└── README.md
-
-------------------------------------------------------------
-
 ## Installation and Setup
 
 1. Install dependencies:
