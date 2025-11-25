@@ -98,8 +98,11 @@ FUTURE_CHAT/
 ## Contributor
 
 
-Pankaj Kumar
-Tushar Bhardwaj
+- Pankaj Kumar
+- https://github.com/pankaj-rspy/Future_Chat/tree/main
+  
+- Tushar Bhardwaj
+- https://github.com/Bh-ardwaj/FUTURE_CHAT
 
 ------------------------------------------------------------
 
